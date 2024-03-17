@@ -1,0 +1,12 @@
+altair
+pandas
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+langchain_google_genai
+langchain 
+PyPDF2 
+chromadb 
+faiss-cpu  
+langchain-community
